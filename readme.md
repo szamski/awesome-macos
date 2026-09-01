@@ -272,6 +272,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Informant](https://www.pocketinformant.com/products/mac-organizer-app/) - The best calendar app for macOS. ![Dollar][mon]
 - [Itsycal](http://www.mowglii.com/itsycal/) - Itsycal is a tiny calendar for your Mac's menu bar. ![Open Source][oss]
 - [Morgen](https://morgen.so/#) - Make the most out of your time. ![Dollar][mon]
+- [hora Calendar](https://horacal.app/?utm_source=github&utm_medium=referral&utm_campaign=awesome_macos) - Native Google Calendar Client for macOS. ![Dollar][mon]
 
 ### Contacts
 
