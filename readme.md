@@ -269,6 +269,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [BusyCal](https://www.busymac.com/busycal/) - Powerful, Elegant, Customizable Calendar for macOS. ![Dollar][mon]
 - [Calendars](https://readdle.com/calendars) - Own your time. ![Dollar][mon] 
 - [Fantastical](https://flexibits.com/fantastical) - The calendar app you won't be able to live without. ![Dollar][mon]
+- [hora Calendar](https://horacal.app) - Native Google Calendar on your macOS. ![Dollar][mon]
 - [Informant](https://www.pocketinformant.com/products/mac-organizer-app/) - The best calendar app for macOS. ![Dollar][mon]
 - [Itsycal](http://www.mowglii.com/itsycal/) - Itsycal is a tiny calendar for your Mac's menu bar. ![Open Source][oss]
 - [Morgen](https://morgen.so/#) - Make the most out of your time. ![Dollar][mon]
